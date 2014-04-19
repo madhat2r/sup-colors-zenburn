@@ -1,4 +1,4 @@
-Sup Vimburn
+Sup Zenburn
 ========
 A [sup](https://github.com/sup-heliotrope/sup) colorscheme. Based on the [Zenburn](https://github.com/jnurmine/Zenburn) colorscheme for vim.
 
